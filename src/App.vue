@@ -5,12 +5,12 @@ import { version } from '../public/charting_library';
 
 <template>
   <div class="app">
-		<header class="app_header">
+		<!-- <header class="app_header">
 			<h1 class="app_title">
 				TradingView 使用 JSAPI 方式连接币安数据源DEMO示例
 				{{ version() }}
 			</h1>
-		</header>
+		</header> -->
 		<TVChartContainer />
 	</div>
 </template>
