@@ -1,12 +1,13 @@
-# TradingView Charting Library JSAPI 连接币安数据源示例
+# TradingView Charting Library JSAPI 连接币安数据源
 
+- [TradingView 开发文档](https://zlq4863947.gitbook.io/tradingview/3-shu-ju-bang-ding/js-api)
+- [币安文档](https://developers.binance.com/docs/zh-CN/binance-spot-api-docs)
+
+## 演示
 <p align="center">
 <img src="./tradingview.gif" width="800"/>
 </p>
 
-⚠️ Note: This example is for Vue 3.
-
-The latest supported version of the charting library for these examples is `v28.0.0`.
 
 ## How to start
 
@@ -30,16 +31,16 @@ The latest supported version of the charting library for these examples is `v28.
    with the Charting Library.
 1. Run `npm run build` when you are ready to build the Vue application for deployment.
 
-## What is Charting Library
+## 联系
 
-Charting Library is a standalone solution for displaying charts. This free,
-downloadable library is hosted on your servers and is connected to your data
-feed to be used in your website or app.
-[Learn more and download](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/).
+<b>闲聊和白嫖勿扰，不接受无偿问答</b>
 
-## What is Vue.js
+<p align="center">
+<img src="./Wechat.jpeg" width="300"/>
+</p>
 
-Vue is a progressive framework for building user interfaces. Unlike other
-monolithic frameworks, Vue is designed from the ground up to be incrementally
-adoptable. The core library is focused on the view layer only, and is easy to
-pick up and integrate with other libraries or existing projects.
+## 打赏
+
+<p align="center">
+<img src="./money.jpeg" width="300"/>
+</p>
