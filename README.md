@@ -1,4 +1,6 @@
-# TradingView Charting Library and Vue.js 3 Integration Example
+# TradingView Charting Library JSAPI 连接币安数据源示例
+
+![演示](tradingview.gif)
 
 ⚠️ Note: This example is for Vue 3.
 
